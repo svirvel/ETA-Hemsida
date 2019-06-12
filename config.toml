@@ -1,0 +1,67 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ETA - E-Sektionens Teletekniska Avdelning"
+theme = "hugo-universal-theme"
+
+assetDir = "/assets"
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name ="About"
+  url = "/about"
+  weight = 2
+
+[[menu.main]]
+  identifier = "equipment"
+  name ="Equipment"
+  url = "/equipment"
+  weight = 3
+
+[[menu.main]]
+  identifier = "wiki"
+  name ="Wiki"
+  url = "/wiki"
+  weight = 4
+
+[[menu.main]]
+  identifier = "auction"
+  name ="auction"
+  url = "/auction"
+  weight = 5
+
+[params]
+
+  style = "red"
+
+  logo = "img/logo.png"
+  logo_small = "img/logo.png"
+
+  about_us = "<p>ETA is an electronics and ham radio community at Chalmers University of Technology. Our lab provides the necessary instruments and equipment for you to excercise your electronics hobby. </p>"
+
+  address = """<p><strong>ETA Chalmers</strong>
+    <br>Rännvägen 4
+    <br>412 96 Gothenburg
+    <br>
+    <br>031-20 78 60
+    <br>eta@eta.chalmers.se
+    </p>
+    """
+
+  # Format dates with Go's time formatting
+  date_format = "January 2, 2006"
+
+[params.see_more]
+  enable = true
+  icon = "fa fa-file-code-o"
+  title = "Do you want to become a member?"
+  subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+  link_url = "http://your-site.com/more"
+  link_text = "Check other homepages"
