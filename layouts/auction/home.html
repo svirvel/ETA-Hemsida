@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+    <div id="all">
+
+        <header>
+          {{ partial "nav.html" . }}
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        {{ partial "auction/sidebar.html" . }}
+                    </div>
+                    <div class="col-md-9" id="blog-post">
+                          {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
