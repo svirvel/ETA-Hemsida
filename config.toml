@@ -58,6 +58,15 @@ assetDir = "/assets"
   title = "E-sektionens Teletekniska Avdelning"
   subtitle = "An electronics and ham radio community at Chalmers University of Technology."
 
+[params.see_more]
+  enable = true
+  title = "Annual electronics auction"
+  icon = "fa fa-gavel"
+  subtitle = "ETA's annual auction is held the 7th of December 2019"
+  link_url = "/auction"
+  link_text = "More info"
+  image = "img/auctionHeader.jpg"
+
 [params.clients]
   enable = true
   title = "Our sponsors"
