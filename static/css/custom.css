@@ -41,3 +41,12 @@ img.avatar-image {
     padding-right: 20%;
     border-radius: 50%;
 }
+
+.homepage .img-responsive {
+  height: 10em;
+  width: auto;
+}
+
+.home-carousel {
+  background-image: none;
+}
