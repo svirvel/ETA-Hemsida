@@ -5,3 +5,9 @@ draft: false
 type: "auction"
 layout: "home"
 ---
+
+{{< auctionCommittee >}}
+If you have any questions about the auction or want to donate, feel free to contact the auction committee at <auktion@eta.chalmers.se>.
+{{< /auctionCommittee >}}
+
+{{< openStreetMap lat="57.687895" long="11.978108">}}

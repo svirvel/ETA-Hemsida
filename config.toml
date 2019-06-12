@@ -20,12 +20,6 @@ assetDir = "/assets"
   weight = 2
 
 [[menu.main]]
-  identifier = "equipment"
-  name ="Equipment"
-  url = "/equipment"
-  weight = 3
-
-[[menu.main]]
   identifier = "wiki"
   name ="Wiki"
   url = "/wiki"
@@ -58,10 +52,13 @@ assetDir = "/assets"
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
 
-[params.see_more]
+[params.jumbotron]
   enable = true
-  icon = "fa fa-file-code-o"
-  title = "Do you want to become a member?"
-  subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-  link_url = "http://your-site.com/more"
-  link_text = "Check other homepages"
+  image = "img/oscilloscopeHeader.jpg"
+  title = "E-sektionens Teletekniska Avdelning"
+  subtitle = "An electronics and ham radio community at Chalmers University of Technology."
+
+[params.clients]
+  enable = true
+  title = "Our sponsors"
+  subtitle = ""
