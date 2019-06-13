@@ -49,3 +49,8 @@ img.avatar-image {
 .home-carousel {
   background-image: none;
 }
+
+.jumbotron {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
