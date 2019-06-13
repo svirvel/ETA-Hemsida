@@ -29,8 +29,7 @@ img.auction-item-thumbnail {
 
 #openStreetMap  {
   max-width: 100%;
-  margin-bottom: 10rem;
-  height: 25em;
+  height: 30em;
 }
 
 img.avatar-image {
@@ -49,4 +48,18 @@ img.avatar-image {
 }
 #navbar {
   box-shadow: 0 0 5px #cccccc;
+}
+
+.homepage .img-responsive {
+  height: 10em;
+  width: auto;
+}
+
+.home-carousel {
+  background-image: none;
+}
+
+.jumbotron {
+  padding-top: 10em;
+  padding-bottom: 10em;
 }
