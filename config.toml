@@ -16,19 +16,19 @@ assetDir = "/assets"
 [[menu.main]]
   identifier = "about"
   name ="About"
-  url = "/about"
+  url = "/about/"
   weight = 2
 
 [[menu.main]]
   identifier = "wiki"
   name ="Wiki"
-  url = "/wiki"
+  url = "/wiki/"
   weight = 4
 
 [[menu.main]]
   identifier = "auction"
   name ="auction"
-  url = "/auction"
+  url = "/auction/"
   weight = 5
 
 [params]
