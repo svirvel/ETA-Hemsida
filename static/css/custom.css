@@ -41,10 +41,10 @@ img.avatar-image {
     border-radius: 50%;
 }
 
-/* Add spacing at top of page to accommodate for sticky navbar height. */
+/* Add spacing at top of page to accommodate for sticky navbar min-height. */
 #all {
       position: relative;
-      top: 67px;
+      top: 62px;
 }
 #navbar {
   box-shadow: 0 0 5px #cccccc;
