@@ -4,6 +4,10 @@ date: 2019-06-11T15:58:13+02:00
 draft: false
 ---
 
+{{< jumbotron title="E-Sektionens Teletekniska Avdelning" img="/img/oscilloscopeHeader.jpg" >}}
+  An electronics and ham radio community at Chalmers University of Technology.
+{{< /jumbotron >}}
+
 {{< carousel >}}
 
 {{< sectionLargeText title="Become a member" >}}
@@ -20,4 +24,4 @@ draft: false
 ETA's annual auction is held the 7th of December 2019
 {{< /backgroundBanner >}}
 
-{{< sponsors title="Our sponsors" >}}
+{{< sponsors title="Out sponsors" >}}
