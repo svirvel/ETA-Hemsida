@@ -15,23 +15,7 @@
 
         </header>
 
-        {{ partial "jumbotron.html" . }}
-
-        {{ partial "carousel.html" . }}
-
-        {{ partial "features.html" . }}
-
-        {{ partial "how_to_join.html" . }}
-
-        {{ partial "open_street_map.html" . }}
-
-        {{ partial "testimonials.html" . }}
-
-        {{ partial "see_more.html" . }}
-
-        {{ partial "recent_posts.html" . }}
-
-        {{ partial "clients.html" . }}
+        {{ .Content }}          <!-- Display content of _index.md -->
 
         {{ partial "footer.html" . }}
 
