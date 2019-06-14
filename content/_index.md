@@ -8,7 +8,11 @@ draft: false
   An electronics and ham radio community at Chalmers University of Technology.
 {{< /jumbotron >}}
 
-{{< carousel >}}
+{{< features >}}
+
+{{< backgroundBanner title="electronics auction" icon="fa fa-gavel" img="img/auctionHeader.jpg" url="/auction" buttonText="See more" >}}
+ETA's annual auction is held the 7th of December 2019
+{{< /backgroundBanner >}}
 
 {{< sectionLargeText title="Become a member" >}}
   Do you want to know more about us or become a member?
@@ -19,9 +23,5 @@ draft: false
 {{< /sectionLargeText >}}
 
 {{< openStreetMap lat="57.687895" long="11.978108">}}
-
-{{< backgroundBanner title="electronics auction" icon="fa fa-gavel" img="img/auctionHeader.jpg" url="/auction" buttonText="See more" >}}
-ETA's annual auction is held the 7th of December 2019
-{{< /backgroundBanner >}}
 
 {{< sponsors title="Out sponsors" >}}
