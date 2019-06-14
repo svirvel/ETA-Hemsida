@@ -40,6 +40,15 @@ img.avatar-image {
     border-radius: 50%;
 }
 
+img.feature-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+  border-radius: 50%;
+}
+
 /* Add spacing at top of page to accommodate for sticky navbar min-height. */
 #all {
       position: relative;
