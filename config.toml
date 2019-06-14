@@ -51,38 +51,3 @@ assetDir = "/assets"
 
   # Format dates with Go's time formatting
   date_format = "January 2, 2006"
-
-[params.jumbotron]
-  enable = true
-  image = "img/oscilloscopeHeader.jpg"
-  title = "E-sektionens Teletekniska Avdelning"
-  subtitle = "An electronics and ham radio community at Chalmers University of Technology."
-
-[params.see_more]
-  enable = true
-  title = "Annual electronics auction"
-  icon = "fa fa-gavel"
-  subtitle = "ETA's annual auction is held the 7th of December 2019"
-  link_url = "/auction"
-  link_text = "More info"
-  image = "img/auctionHeader.jpg"
-
-[params.clients]
-  enable = true
-  title = "Our sponsors"
-  subtitle = ""
-
-[params.carousel]
-  enable = true
-
-[params.how_to_join]
- enable = true
- title = "Become a member"
- subtitle = """Do you want to know more about us or become a member?
-            <br><br>Come and visit us in our lab on the 7th floor in the EDIT building. Usualy there's always people here during lunch time. We also have fika every thuesday evening which is a perfect time to come and have coffe and speak with us!
-            <br>I you can't find your way call us at 031-20 78 60."""
-
-[params.open_street_map]
-  enable = true
-  lat = "57.687895"
-  long = "11.978108"
