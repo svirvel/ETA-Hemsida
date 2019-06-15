@@ -10,24 +10,6 @@
           {{ partial "nav.html" . }}
         </header>
 
-        {{ $auctionConfig := .Site.Data.AuctionConfig }}
-
-        <div class="bar background-image-fixed-2 no-mb color-white text-center" style="background-image: url(/img/auctionHeader.jpg);  background-position:  center center;">
-            <div class="dark-mask"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h1 class="text-uppercase">ETA Auction - {{ $auctionConfig.auctionYear }}</h1>
-                        <p class="lead">{{ $auctionConfig.subHeader }}</p>
-                        <p class="text-center">
-                            <a href="/auction/all" class="btn btn-template-transparent-black btn-lg">Browse Catalogue</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <br>
-
         <div id="content">
             {{ .Content }}
         </div>
