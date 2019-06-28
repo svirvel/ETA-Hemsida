@@ -71,3 +71,12 @@ img.feature-image {
   padding-top: 10em;
   padding-bottom: 10em;
 }
+
+/* Center board and auction committee lists */
+.team {
+  text-align: center;
+}
+.team .team-member {
+  display: inline-block;
+  float: none !important;
+}

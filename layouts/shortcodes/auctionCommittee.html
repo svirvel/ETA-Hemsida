@@ -5,12 +5,12 @@
     <p class="lead text-center">
       {{ .Inner | markdownify }}
     </p>
-    <div class="container">
+    <div class="container team">
     {{ range $index, $element := sort .Site.Data.auctionCommittee "weight" }}
     	{{ if eq (mod $index 3) 0 }}
           <div class="row">
   		{{ end }}
-    				<div class="col-md-4">
+    				<div class="col-md-3 team-member">
                 <div class="box-simple">
                   <img class="avatar-image" alt="" src="{{ $element.avatar | absURL }}">
                   <h3>{{ $element.name }}</h3>
