@@ -1,5 +1,5 @@
 {{ if gt (len .Site.Data.sponsors) 0 }}
-<section class="bar background-gray no-mb">
+<section class="bar background-gray no-mb container-fluid">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -11,6 +11,7 @@
                   {{ .Inner }}
                 </p>
 
+                <!--
                 <ul class="owl-carousel customers">
                     {{ range .Site.Data.sponsors }}
                     <li class="item" title="{{ .name }}">
@@ -24,7 +25,34 @@
                     </li>
                     {{ end }}
                 </ul>
+                -->
                 <!-- /.owl-carousel -->
+
+                <!-- This is just a copy of the team shortcode, but modified for the sponsors section.
+                     The old sponsors shortcode didn't center logos correctly. -->
+                <div class="team">
+                {{ range $index, $element := sort .Site.Data.sponsors "weight" }}
+                	{{ if eq (mod $index 3) 0 }}
+              		<div class="col-md-12">
+                      <div class="row">
+              		{{ end }}
+                				<div class="col-md-3 team-member">
+                            <div class="box-simple">
+                            {{ if .url }}
+                              <a href="{{ .url }}" target="_blank">
+                                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                              </a>
+                            {{ else }}
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            {{ end }}
+                          </div>
+                        </div>
+              		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.sponsors) 1 )) }}
+                    </div>
+              		</div>
+              		{{ end }}
+                {{ end }}
+                </div>
             </div>
         </div>
     </div>
