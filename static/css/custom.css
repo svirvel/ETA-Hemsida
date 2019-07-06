@@ -80,3 +80,6 @@ img.feature-image {
   display: inline-block;
   float: none !important;
 }
+.sponsor-box  {
+  min-height: 100px;
+}
