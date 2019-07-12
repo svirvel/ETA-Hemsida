@@ -1,0 +1,85 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.navbar-brand img {
+  height: 100%;
+}
+
+img.auction-item-thumbnail {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 7em;
+  width: auto;
+}
+
+.bar .dark-mask {
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+#openStreetMap  {
+  height: 30em;
+}
+
+img.avatar-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 50%;
+}
+
+img.feature-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-left: 20%;
+  padding-right: 20%;
+  border-radius: 50%;
+}
+
+/* Add spacing at top of page to accommodate for sticky navbar min-height. */
+#all {
+      position: relative;
+      top: 62px;
+}
+#navbar {
+  box-shadow: 0 0 5px #cccccc;
+}
+
+.homepage .img-responsive {
+  height: 10em;
+  width: auto;
+}
+
+.home-carousel {
+  background-image: none;
+}
+
+.jumbotron {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+/* Center board and auction committee lists */
+.team {
+  text-align: center;
+}
+.team .team-member {
+  display: inline-block;
+  float: none !important;
+}
+.sponsor-box  {
+  min-height: 100px;
+}

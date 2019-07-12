@@ -1,4 +1,0 @@
-[submodule "themes/hugo-universal-theme"]
-	path = themes/hugo-universal-theme
-	url = https://github.com/ETAChalmers/hugo-universal-theme
-	branch = eta-theme
