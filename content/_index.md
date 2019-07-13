@@ -23,5 +23,3 @@ ETA's annual auction is held the 7th of December 2019
 {{< /sectionLargeText >}}
 
 {{< openStreetMap lat="57.687895" long="11.978108">}}
-
-{{< sponsors title="Out sponsors" >}}

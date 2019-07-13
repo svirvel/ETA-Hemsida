@@ -11,3 +11,5 @@ Need to reach us? Send an email to <eta@eta.chalmers.se> or send a private email
 {{< auctionCommittee >}}
 The auction committee is mainly responsible for the yearly auction. Send an email at <auktion@eta.chalmers.se> if you have any questions about the auction or want to donate something.
 {{< /auctionCommittee >}}
+
+{{< sponsors title="Our sponsors" >}}
