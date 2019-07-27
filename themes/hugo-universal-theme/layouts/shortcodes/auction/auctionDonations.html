@@ -1,0 +1,29 @@
+<section class="bar background-white container" style="margin-bottom: 0px;">
+    <div class="heading text-center">
+      <h2>Donations</h2>
+    </div>
+    <div class="container lead">
+      {{ .Inner | markdownify }}
+    </div>
+    <div class="container team">
+    {{ range $index, $element := sort .Site.Data.auctionCommittee "weight" }}
+    	{{ if eq (mod $index 3) 0 }}
+          <div class="row">
+  		{{ end }}
+    				<div class="col-md-3 team-member">
+                <div class="box-simple">
+                  <img class="avatar-image" alt="" src="{{ $element.avatar | absURL }}">
+                  <h3>{{ $element.name }}</h3>
+                  <p>
+                    {{ $element.position }} <br>
+                    {{ $element.phone }}
+                  </p>
+
+              </div>
+            </div>
+  		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.auctionCommittee) 1 )) }}
+  			</div>
+  		{{ end }}
+    {{ end }}
+    </div>
+</section>
