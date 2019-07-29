@@ -72,6 +72,10 @@ img.feature-image {
   padding-bottom: 10em;
 }
 
+.jumbotron p {
+  margin-bottom: 40px;
+}
+
 /* Center board and auction committee lists */
 .team {
   text-align: center;
@@ -82,4 +86,13 @@ img.feature-image {
 }
 .sponsor-box  {
   min-height: 100px;
+}
+
+.text-box {
+  background: white;
+  padding: 0.5em;
+  border-style: solid;
+  border-color: white;
+  border-width: 1em;
+  border-radius: 0.5em;
 }

@@ -6,12 +6,22 @@ type: "auction"
 layout: "home"
 ---
 
-{{< jumbotronWithButton title="ETA Auction 2019" buttonText="Browse catalouge" url="/auction/all" img="/img/auctionHeader.jpg" >}}
-  6th of December @ Betonghallen, Chalmers
-{{< /jumbotronWithButton >}}
+{{< auction/auctionJumbotron >}}
 
-{{< auctionCommittee >}}
-If you have any questions about the auction or want to donate, feel free to contact the auction committee at <auktion@eta.chalmers.se>.
-{{< /auctionCommittee >}}
+<!-- Information about date and location is automatically added in the shortcode. This is updated in the auction configuration file. -->
+{{< auction/auctionDetails >}}
+Every year ETA arranges an auction where hamradio equipment, electonics components, lab equipment mystical apparatus and more are sold. The goal with the auction is to sell useful equipment for a low price to  support the student associations economy.
+{{< /auction/auctionDetails >}}
 
-{{< openStreetMap lat="57.687895" long="11.978108">}}
+<!-- The auction info (during the auction and rules) is directly written in the shortcode as markdown doesn't support columns. -->
+{{< auction/auctionInfo >}}
+
+{{< backgroundBanner title="Catalouge" img="/img/auctionBidding.jpg" url="/auction/all" buttonText="Browse catalouge" >}}
+New items are frequently added to the auction catalouge
+{{< /backgroundBanner >}}
+
+{{< auction/auctionDonations >}}
+Everything that is sold during the auction have been donated from companies or individuals who want to support our student association. Our association is completely non-profit and all the earnings from the auction is used to support the association.
+
+If you want to support our association and make a donation to the auction, feel free to contact the auction committee at <auktion@eta.chalmers.se>.
+{{< /auction/auctionDonations >}}
