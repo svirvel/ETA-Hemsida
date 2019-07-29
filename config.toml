@@ -22,7 +22,7 @@ assetDir = "/assets"
 [[menu.main]]
   identifier = "wiki"
   name ="Wiki"
-  url = "/wiki/"
+  url = "https://wiki.eta.chalmers.se/"
   weight = 4
 
 [[menu.main]]
