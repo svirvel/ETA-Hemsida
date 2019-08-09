@@ -1,4 +1,4 @@
-<section class="bar background-white no-mb">
+<section class="bar background-white no-mb" style="{{ safeCSS (.Get "style") }}">
     <div class="container">
 
         <div class="col-md-12">
@@ -6,9 +6,9 @@
                 <h2>{{ .Get "title" }}</h2>
             </div>
 
-            <p class="lead">
-              {{ .Inner }}
-            </p>
+            <span class="lead">
+              {{ .Inner | markdownify }}
+            </span>
 
         </div>
     </div>
