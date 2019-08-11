@@ -77,21 +77,29 @@ img.feature-image {
 }
 
 /* Center board and auction committee lists */
-.team .row{
+.team .row {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-.sponsor-box  {
-  min-height: 100px;
+.sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sponsor-box {
+  max-width: 400px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .horizontal-images {
   overflow-y: hidden;
   text-align: center;
   white-space: nowrap;
-  /*padding-left: 100px;
-  padding-right: 100px;*/
 }
 .horizontal-images img {
   width: 100%;
