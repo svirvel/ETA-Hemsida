@@ -91,6 +91,7 @@ img.feature-image {
   max-width: 400px;
   margin-left: 20px;
   margin-right: 20px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
