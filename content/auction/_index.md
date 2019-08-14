@@ -20,7 +20,7 @@ Every year ETA arranges an auction where hamradio equipment, electonics componen
 New items are frequently added to the auction catalouge
 {{< /backgroundBanner >}}
 
-{{< auction/auctionDonations >}}
+{{< auction/auctionDonations style="padding-bottom:0;">}}
 Everything that is sold during the auction have been donated from companies or individuals who want to support our student association. Our association is completely non-profit and all the earnings from the auction is used to support the association.
 
 If you want to support our association and make a donation to the auction, feel free to contact the auction committee at <auktion@eta.chalmers.se>.

@@ -1,5 +1,5 @@
 {{ if gt (len .Site.Data.sponsors) 0 }}
-<section class="bar background-white no-mb container-fluid" style="{{ safeCSS (.Get "style") }}">
+<section class="bar background-white container-fluid" style="{{ safeCSS (.Get "style") }}">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -11,31 +11,20 @@
                   {{ .Inner }}
                 </p>
 
-                <!-- This is just a copy of the team shortcode, but modified for the sponsors section.
-                     The old sponsors shortcode didn't center logos correctly. -->
-                <div class="team">
-                {{ range $index, $element := sort .Site.Data.sponsors "weight" }}
-                	{{ if eq (mod $index 3) 0 }}
-              		<div class="col-md-12">
-                      <div class="row">
-              		{{ end }}
-                				<div class="col-md-3 team-member">
-                            <div class="sponsor-box">
-                            {{ if .url }}
-                              <a href="{{ .url }}" target="_blank">
-                                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                              </a>
-                            {{ else }}
-                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                            {{ end }}
-                          </div>
-                        </div>
-              		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.sponsors) 1 )) }}
+                <div class="container sponsors">
+                  {{ range $index, $element := sort .Site.Data.sponsors "weight" }}
+                    <div class="sponsor-box">
+                      {{ if .url }}
+                        <a href="{{ .url }}" target="_blank">
+                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        </a>
+                      {{ else }}
+                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                      {{ end }}
                     </div>
-              		</div>
-              		{{ end }}
-                {{ end }}
+                  {{ end }}
                 </div>
+
             </div>
         </div>
     </div>

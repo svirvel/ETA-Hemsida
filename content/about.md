@@ -14,7 +14,7 @@ ETA was originally founded in 1935 as an amateur radio club by Chalmers students
 
 <!-- To edit the board or auction committee members, edit the contents in the
 "data" directories -->
-{{< board style="padding-bottom:0;" >}}
+{{< board style="padding-top:0; padding-bottom:0;" >}}
 Need to reach us? Send an email to <eta@eta.chalmers.se>.
 {{< /board >}}
 
