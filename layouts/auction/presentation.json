@@ -8,10 +8,11 @@
       {{ range $i, $r := (after 1 $data) }}
       {{- if ne $i 0 -}}, {{- end -}}
       {
-        "id": "{{ (index $r 4) }}",
-        "description": "{{ (index $r 0) }}",
-        "status": "{{ (index $r 1) }}",
-        "image": "{{ (printf "/auction/images/%s.jpg" (index $r 4)) }}"
+        "id": "{{ (index $r 5) }}",
+        "title": "{{ (index $r 0) }}",
+        "description": "{{ (index $r 1) }}",
+        "status": "{{ (index $r 2) }}",
+        "image": "{{ (printf "/auction/images/%s.jpg" (index $r 5)) }}"
       }
       {{ end }}
     ]

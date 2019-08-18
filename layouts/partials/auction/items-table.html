@@ -12,20 +12,21 @@
       {{ $auctionConfig := .context.Site.Data.AuctionConfig }}
       {{ $data := getCSV "," "content/auction/auctionItems.csv"}}
       {{ range after 1 $data }}
-        {{ if or (in $.category (index . 2)) (eq $.category "All") }}
+        {{ if or (in $.category (index . 3)) (eq $.category "All") }}
           <tr>
             <td>
-              {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 4)) }}
+              {{ $image := resources.Get (printf "/auction/images/%s.jpg" (index . 5)) }}
               {{ if $image }}
                 {{ $thumbnail := $image.Fill "200x200" }}
                 <a href={{ $image.Permalink }}> <img class="auction-item-thumbnail" src={{$thumbnail.Permalink}}> </a>
               {{ end }}
             </td>
             <td>
-              {{ index . 0 }}
+              <b>{{ index . 0 }}</b><br>
+              {{ index . 1 }}
             </td>
             <td>
-              {{ index . 1 }}
+              {{ index . 2 }}
             </td>
           </tr>
         {{ end }}

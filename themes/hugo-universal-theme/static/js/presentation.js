@@ -18,6 +18,7 @@ jQuery(document).ready(function(){
          if(typeof item == 'undefined') {
            $('#presentation-search-input').css("color","red");
          } else {
+           $('#presentation-item-title').text(item.title);
            $('#presentation-item-description').text(item.description);
            $('#presentation-item-img').attr("src",item.image);
            $('#presentation-item-status').text(item.status);
