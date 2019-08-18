@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "ETA - E-Sektionens Teletekniska Avdelning"
 theme = "hugo-universal-theme"
 
-assetDir = "/assets"
-
 [menu]
 
 [[menu.main]]
