@@ -38,6 +38,11 @@
 
 <script type="text/javascript">
   document.addEventListener("DOMContentLoaded", function(event) {
-    $("#auction-items-table").DataTable();
+    $("#auction-items-table").DataTable( {
+        dom: 'Bfrtip',
+        buttons: [
+            'print'
+        ]
+    } );
   });
 </script>
