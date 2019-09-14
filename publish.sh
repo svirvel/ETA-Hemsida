@@ -11,6 +11,7 @@ rm -rf public
 mkdir public
 git worktree prune
 rm -rf .git/worktrees/public/
+git branch -D deploy
 
 echo "Checking out gh-pages branch into public"
 git worktree add -B deploy public origin/deploy
