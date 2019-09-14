@@ -25,6 +25,6 @@ hugo
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to deploy (publish.sh)"
 
-#echo "Pushing to github"
-#git push --all
+echo "Pushing to github"
+git push --all
 
