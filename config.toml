@@ -1,4 +1,4 @@
-baseURL = "https://eta-chalmers.tk/"
+baseURL = "https://eta.chalmers.se/"
 languageCode = "en-us"
 title = "ETA - E-Sektionens Teletekniska Avdelning"
 theme = "hugo-universal-theme"
