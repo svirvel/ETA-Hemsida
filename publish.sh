@@ -17,3 +17,5 @@ git clean -fd
 
 git commit -m "Deploy"
 git push --force --set-upstream origin deploy
+
+git checkout master
