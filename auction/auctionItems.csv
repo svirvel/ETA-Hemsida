@@ -1,0 +1,278 @@
+Title,Description,Status,Category,Location,ID
+RC Helikopter,Hemmabyggd hellikopter med reservdelar,Not working,Gerät,A1,20190186
+LeCroy 9354Al,500 MHz 2 GSa/s 8 Mpt skärm död,Not working,Instrument,A1,20190148
+Leica MPS32,Kamerakit with Leica MPS32 Self test ok,Other,Video,B1,20190194
+Yamaha RX-V450,Skärm ok,Lights Up,Audio,B1,20190028
+PM2831,Programerbar strömförsörjning med IEEE488 port,Working,Power supply,A1,20190144
+Tektronix TDS 460A,400MHz 100MSa/s,Working,Instrument,A1,20190152
+Powerload 50,Last,Not tested,Instrument,B1,20190198
+Harman kardon AVR70,AV mottagning,Working,Audio,A1,20190029
+HP530A,Micro wave frekvens monitor,Working,Instrument,A1,20190202
+Data I/O 29B,Universal programer,Lights up,Gerät,B1,20190164
+HP 3575A,Chain Phase meter 1Hz-13MHz,Working,Instrument,A1,20190168
+Tektronix 2432A,Oscilloskop ,Not working,Instrument,B1,20190172
+HP 1631D,"Logikanalysator HP1631D + 2 HP 100172 prober. Inte testad med prober, men verkar fungera.",Other,Instrument,A1,20190160
+HP 3245A,Universiell källa,Working,Instrument,A1,20190156
+HP 6633A,Fasmätare,Working,Power supply,A1,20190176
+HP 8012B,Puls generator ,Working,Instrument,B1,20190180
+Tektronix TDS320,Kanal 2 trasig,Working,Instrument,A1,20190192
+HP 8350B,Sveposcillator,Lights up,Instrument,B1,20190011
+Oltronix BL103,70W 0-40V,Working,Power supply,A1,20190196
+85060bos,Elektronisk kalibreringsenhet,Lights up,Miscellaneous,A1,20190188
+Tektronix 7613,Oscilloskop och Spektrum analysator 1.8GHz,Lights up,Instrument,B1,20190184
+HP 8011A,Pulsegenerator,Working,Instrument,A1,20190000
+Tektronix TDS 510A,Ocilloskop 500MHz,Working,Instrument,A1,20190004
+Hitachi HG-730,Grafplotter,Working,Miscellaneous,B1,20190002
+Graptec WR8500,Termisk array mätare,Working,Instrument,A1,20190003
+HP 16500C,Logikanalysator ,Working,Instrument,B1,20190001
+iOtech DAC48872,Digital till analog mätare,Lights up,Instrument,B1,20190005
+KROHN-HITE 6500A,Fasmätare,Working,Instrument,B1,20190006
+Graptec WR8500,Termisk array mätare,Working,Instrument,A1,20190007
+KROHN-HITE 3202R,Filter 2 I/O 20-2MHz,Lights up,Instrument,B1,20190200
+HP 8970B,Brusfigursmätare,Lights up,Instrument,B1,20190016
+HP 35G50,system Mainframe intefarco/signal processor 2* 8chanels input programable data,Lights up,Power supply,B2,20190015
+Wiltron 68169A,Syntesierad svepgenerator 10MHz-40GHz,Lights up,Instrument,A1,20190018
+Graptec WR8500,Termisk arraymätare,Working,Instrument,A1,20190017
+MX 202B,Analog multimeter,Not working,Instrument,B1,20190019
+Tktronix VX4287,VXI Rack,Working,Instrument,B2,20190030
+HP 1650A,Logikanalysator ,Lights up,Instrument,B1,20190022
+HP E1401B,Mainframe 12 modules VXI-rock,Lights up,Miscellaneous,B2,20190020
+HP E1401B,Mainframe 12 modules VXI-rock,Lights up,Miscellaneous,B2,20190021
+Beran Instruments,1*602 nättagg 6*603/Q,Lights up,Instrument,B1,20190013
+Skanti PCH2424,,Not tested,Miscellaneous,B1,20190014
+Toshiba Satellite L300,Laptop,Not tested,Computer,B1,20190008
+HP 8350B ,Oscillator,Lights up,Instrument,B2,20190012
+HP 8510A,Nätverksanalysator,Lights up,Instrument,A2,20190024
+Tektronix TDS 540,500 MHz 4 kanaler 1GS,Other,Instrument,B2,20190026
+Tektronix 2432A,Oscilloskop och spektrumanalysator 1.8GHz + manual ,Working,Instrument,A1,20190031
+Uni Padik,Data I/O system ,Lights up,Instrument,B1,20190036
+Philips PM5715,Pulsgenerator 1Hz-50MHz,Not working,Instrument,B1,20190032
+Tektronix TDS 744A,Oscilloskop ,Working,Instrument,A2,20190033
+Mettler-Toledo PB1502-S,Våg 0.5-1510g,Not tested,Instrument,B1,20190034
+Tektronix 2432A,Tektronix 2432A + DPO-411 type 2,Not working,Instrument,B2,20190037
+PM2534,Systemmultimeter,Working,Instrument,B1,20190060
+HP5326B,Time-counter DVM med Nixie rör!,Working,Nostalgia,A1,20190061
+Philips PM2831,Programerbart nätaggregat,Working,Power supply,A2,20190059
+Tektronix 2431L,Oscilloscop 250MS/s 300MHz,Working,Instrument,A2,20190063
+Tektronix TDS460A,Oscilloscope 4-channel 400MHz 100MS/s,Working,Instrument,A2,20190066
+Tektronix VX4234,Multimeter rackmonterad,Not tested,Instrument,A2,20190044
+HṔ 66104A,"DC Powermodule 0-60V/2.5A, skum formfaktor",Not tested,Power supply,B1,20190064
+HP 66104A,"DC Powermodule 0-60V/2.5A, skum formfaktor",Not tested,Power supply,B2,20190065
+HP 6633B,Programerbart NätaggerIGAT 0-50v 2a,Working,Power supply,a2,20190062
+HP 8971,Brusfigursmätare,Lights up,Instrument,a2,20190069
+HP 3245A,"Fel på internt minne, men lyser mm",Lights up,Instrument,B2,20190046
+Tektronix TDS340,Ocilloskop 100MHz 500MS/s,Working,Instrument,A2,20190042
+Lecroy LC574A ,"Ocilloskop 1GHz 4GS/s 500kpt, Skärmen blinkar momentärt vid start, antagligen fel på nätagg",Not working,Instrument,A2,20190027
+Tektronix TDS 340,"Digitalt realtids ocilloskop 100MHz 500MS/s 2 kanaler, autoset",Working,Instrument,A2,20190041
+Precisionspotensiometer,Helipot 0-10KOhm +-1% Linjäritet +-0.1% 5W,Working,Gerät,A2,20190043
+Digital multimeter ,Schumberger 715O ,Working,Instrument,B2,20190050
+PM6666,Programerbart nätagregat PM6666 120Mz,Working,Instrument,B2,20190048
+HP 8111A,Puls/funktionsgenerator  20MHz,Working,Instrument,A1,20190070
+Brusgenerator,General Radio Company 1381 2Hz-50KHz,Working,Radio,A1,20190071
+Rackskåp,"Model 53B IAC system, Innehåll lämnas som en övning för läsaren",Lights up,Miscellaneous,B2,20190053
+Fluke 37,Bärbar multimeter,Working,Instrument,B2,20190047
+Fluke 8010A,Digital multimeter,Working,Instrument,B1,20190068
+Fluke 8010A,Digital multimeter,Working,Instrument,B2,20190056
+Fluke 37,Batteridriven multimeter,Working,Instrument,B2,20190052
+Fluke 37,Batteridriven multimeter,Working,Instrument,B2,20190051
+M6669,M6669 Universiell frekvensräknare 120MHz,Working,Instrument,B2,20190054
+Fluke 8012A,"Digital multimeter Dålig skärm, några portar är dåliga",Other,Instrument,B2,20190055
+HP 8350B + HP 83540A,Svepgenerator 2-8.4GHz,Lights up,Instrument,A1,20190009
+VXI Rack,"National instruments VXI-1500 rack, ger inga felkoder",Lights up,Instrument,B2,20190010
+Tektronix TDS429A,"Tektronix TDS420A på rullvagn med 2st prober, selftest ok. Funkar, men Krashar och slutar Svarar på input",Other,Instrument,B2,20190057
+Tektronix TDS420A,Oscilloskop 200MHz,Working,Instrument,A1,20190074
+Philips PM5771,Philips PM5771 pulsegenerator 1Hz- 100MHz,Working,Instrument,B2,20190073
+Funktionsgenerator 20Mhz ,"HP8111A 20MHz Funktionsgenerator 17V ut Sinus,triangel,fyrkant,puls. Blinkar error men output är korrekt",Working,Instrument,B2,20190039
+Mettler PM300,Våg Mettler PM300 +-0.01g 310g max,Working,Instrument,B2,20190038
+Dekadmotstånd,AEG TECHNISCHER DEKADEN-WIDERSTAND x10000Ohm,Working,Instrument,B2,20190058
+Brusgenerator,General Radio Company 1381 2Hz-50KHz,Working,Radio,B2,20190108
+"Vågledare, fasförskjutare",Vågledar fasförskjutare ställbar +2x J281A 0-360+-500mdeg,Not tested,Radio,C,20190025
+Oltronix B32-20R 32V 22A,Nätaggregat Oltronix B32-20R 32V 22A,Working,Power supply,B2,20190080
+Oltronix B603DS Rökmaskin,"Släppe ur sig magisk rök under tester, funkade I början av testet….",Other,Power supply,B3,20190082
+Bussanalysator,Iotech analysator 4888+IEEE Bus analysator+manual,Not tested,Instrument,B3,20190072
+CDS IAC system,CDS Model 53B IAC System 6st instickskort ,Lights up,Gerät,B3,20190083
+Högeffektsförstärkare,"ST KELTEC CORP TWT amplifier LR630-200, 1.0-2.0GHz Skall ej köras olastad! (palldragare ingår ej)",Not tested,Radio,B3,20190049
+Nätaggregat,"Oltronix Stabpac 18 MB 5/6V 2.5A Gulllig formfaktor, passar till fasta installationer",Working,Power supply,B3,20190076
+Tillbehör till HP8405A,"Isolatorer,spännngsdelare,EJ KOMPLETT",Other,Miscellaneous,B3,20190079
+Rackmonterat gerät,Beran instruments model n0.602,Lights up,Gerät,B3,20190087
+HP 1650B ,"HP1650 Logikanalysator Alla self-test OK, Bootar inte från floppy ",Other,Instrument,B3,20190078
+Nicolet 4094,Nicolet 4064 Ocilloskop ,Working,Instrument,B3,20190088
+Rascal instruments 2251,Rascal instruments 2251 Counter timer rakmonterad,Not tested,Instrument,B3,20190086
+HP 8350B + HP 86260V,Svepanalysator + RF plugin,Working,Instrument,A2,20190090
+HP 59501A ,Isolated D/A/power supply programmer HP 59501A HP-IB,Lights up,Instrument,C,20190092
+Fläkt,Hemmabyggd,Not working,Gerät,B,20190109
+HP 6653A,HP Nätaggregat 6653A 0-35V / 0.15A,Working,Instrument,A2,20190091
+Eurotherm 5100V,Eurotherm Chessell 5100V,Not working,Gerät,C,20190075
+Philips Powertest PE6241,Testmaskin med euro-C kontakt och DE-9 uttag,Lights up,Instrument,C,20190096
+Philips Powertest PE6241,Testmaskinsgerät PE6241,Lights up,Instrument,C,20190094
+Goerz Metrawatt MA 5D,"DMM, 1000V med dB och kapacitansmätarfunktion",Working,Instrument,B3,20190089
+Tektronix DM 501A,"DMM rackmodul, kortkantskontakt, 1000VDC, 2A max",Not tested,Instrument,C,20190093
+Systron-Donner PHR100-4,Nätaggregat PHR100-4 “Helt kaputt”,Not working,Instrument,C,20190077
+Cotech 30-8617,"Cotech 30-8617 extra kladdig skruvdragare, batteri urladdat",Not tested,Miscellaneous,C,20190023
+Tektronix P6201 FET-prob,"FET-prob med tillbehör, Fischer-liknande kontakt",Not tested,Instrument,C,20190110
+Rascal intsruments instickskort VXI,Instickskort för VXI-MXI2 av rascal instruments,Not tested,Gerät,B3,20190084
+Termo- och hygrometer,"Hagelbaserad termo-/hygrometer, Rudolph Grave AB",Not tested,Gerät,C,20190102
+Bandsåg INCA,"Bandsåg för den kräsne hobbyisten, sågar allt möjligt. Trefasjack.",Working,Miscellaneous,A1,20190045
+Datorspel på CD-ROM,"Red Alert 1 på CD-ROM, samt Ready and Alert",Not tested,Computer,B3,20190105
+Lödspetstermometer,Analog äldre lödspetstermometer,Working,Gerät,B3,20190106
+CNC-paket,"CNC, byggkit för den händige",Other,Component,B3,20190107
+Intermec streckkodsläsare av gammal sort,Streckkodsläsare vintage,Not working,Gerät,C,20190111
+Digatron ZLEG2-200/100-3ZBTS,Batteritestare,Working,Instrument,X,20190128
+Logikanalysator HP 16500A,Logikanalysator med pekskärm!! Väldigt funkiga menyfärger.,Lights up,Instrument,A1,20190117
+Phillips PM2518X multimeter,Handhållen multimeter 9V,Not tested,Instrument,B3,20190118
+Variabel induktor,"Linjärställdon “rejäl kategori,” massor av koppar eller variabel induktans",Not working,Gerät,C,20190116
+Kabel,Flexform 25 meter,Working,Gerät,C10,20190142
+Strömförsörjning,7414A,Lights up,Power supply,C10,20190131
+2x Högtalareelement,200W TS-E20019,Not tested,Audio,B3,20190132
+HP färgskrivare,Plain-paper fax colour scanner + instruction manual,Lights up,Nostalgia,A5,20190146
+Biltermometer,termometer I bilen,Not tested,Miscellaneous,C10,20190133
+Batteriladdare,200W,Lights up,Miscellaneous,C10,20190129
+Bänkmixer 3 kanaler,kn-Djmixer10,Lights up,Audio,B3,20190134
+USB-DSP,TMS320C5535 eZdsp,Not tested,Audio,B3,20190135
+DSP Audio Interface Box,Nyvalla DSP,Lights up,Instrument,A5,20190150
+Nätaggeregat,30V 1A 2 kanaler Farnell  L30BT,Working,Nostalgia,B3,20190154
+Nätaggeregat,30V 1A 2 kanaler Farnell  L30BT,Working,Nostalgia,B3,20190158
+Oscilloskop ,Os1000A Advance instruments Verdet till kanal 2 glappar,Working,Instrument,C10,20190162
+Nätaggeregat,Oltronix,Lights up,Power supply,C10,20190166
+Nätaggeregat,HP721A,Lights up,Power supply,C10,20190170
+Pulsgenerator,HP8010A Får inga pulser på outputs enbart DC-offset,Other,Instrument,C10,20190174
+Signal generator ,syntesized racal-dona 9081 mår inte jättebra,Lights up,Radio,C10,20190136
+Radio,Brunndig RR710,Not tested,Radio,C10,20190137
+DPS,expessDSP TMS320DSPs,Not tested,Instrument,C10,20190178
+Videomixer,Di-VentiX2 multilyer HiTes mixer scalor seamless switchar,Working,Video,B3,20190138
+Lödkolv,Velleman VT-SS20 Fungerar saknar spetsen på pennan ,Other,Instrument,C10,20190182
+Multimeter,Hp34740A inte noggrant,Working,Instrument,C10,20190139
+Audio/video controll processor,croston av2,Not tested,Video,B3,20190145
+Ljud Grät,AJA kipro,Not tested,Audio,B3,20190153
+Diverse DVI förlängare ,splitters från extron,Not tested,Video,B3,20190161
+HP Proliant PL360G5,,Working,Computer,B3,20190165
+Type 130 L-C meter,,Not tested,Instrument,C10,20190173
+Monitor,CRESTON,Not tested,Video,C10,20190181
+Swema termometer,TS559C,Not tested,Instrument,C10,20190157
+Pulse Generator,PG22 0.5Hz-5MHz,Working,Instrument,C10,20190185
+Transmitter och Reciver,DVI201Tx/Rx ,Not tested,Video,C10,20190169
+Voltmeter,True RMS Kelthley instruments,Lights up,Instrument,B3,20190177
+Nätaggeregat,0-40V 0.5A 2 kanaler,Working,Nostalgia,C,20190189
+Sinus kvadrat generator ,tryckknapparna behöver knäck funkar I övrigt kan batteri drivas ,Working,Radio,C,20190187
+Oscilloskop ,2213A 60MHz,Lights up,Instrument,B3,20190201
+Oscilloskop ,Tektronix 2215 60MHz,Lights up,Instrument,B3,20190193
+Oscilloskop ,TAS475 100MHz four channel,Working,Instrument,A5,20190147
+Oscilloskop ,TAS475 100MHz four channel,Working,Instrument,A5,20190143
+Funktionsgenerator,Svep-Modulations 40mHz-20MHz OR-X311B,Working,Instrument,B3,20190151
+Oscilloskop  ,2213A 60MHz,Lights up,Instrument,B3,20190155
+Apple Server,"Ingen hdd, 4XDVI 16GB ram",Not tested,Computer,B3,20190197
+Voltmeter,HP 3400A RMS,Lights up,Instrument,C10,20190159
+Oscilloskop ,HP 1740A 100MHz,Working,Instrument,A5,20190163
+Variabeltransformator,0-260V ,Working,Power supply,B3,20190191
+RF Voltmeter,Boston Elektronics covp QICA,Lights up,Radio,B3,20190179
+Multifunction synthesizer ,HP 8904A DC-600kHz,Lights up,Instrument,C10,20190183
+Variabeltransformator,0-260V ,Working,Gerät,A5,20190175
+Serieldata analysator,HP 1640A self-test ok,Working,Instrument,C10,20190203
+Hastighetsensor,Pump2,Not tested,Gerät,C10,20190199
+Nätaggregat,Oltronix B8-7,Working,Power supply,C10,20190195
+Prema 6001 Digital multimeter,Prema 6001 Digital multimeter.  Rejält metallchassi. Scanner ingång 10 kanaler. RAM och EEPROM error.,Not working,Instrument,C,20190258
+Radarskärm,Radarskärn Racal Deca RD83,Not tested,Gerät,C,20190257
+Tektronix 2245A,Tektronix 2245A Oscilloskop 4 kannaler 100MHz,Working,Instrument,A,20190256
+Hygrometer,Hygrometer I fin trälåda,Working,Instrument,C,20190260
+DECT basstation,DECT Basstation 1/KRCN8,Other,Gerät,C,20190265
+Nintendo 64,Nintendo 64 Utan tillbehör och nätadapter,Not tested,Computer,B,20190273
+VXI moduler,3 st VXI-moduler. 2 st VX4790A. 1 st TVS641A,Not tested,Instrument,A,20190269
+VXI moduler,1 st HP E1412A + 2 st okända,Not tested,Instrument,A,20190281
+VXI moduler,2 st VX4287. 1 st 73A455,Not tested,Instrument,A,20190277
+Distortionsmätare,Distortionsmätare D566B. Endast spänningsmätning testad vilken fungerar.,Other,Instrument,A,20190285
+Overheadprojektor,Overheadprojektor,Working,Gerät,B,20190262
+Bärbar last,UNIWATT EL100. Last. Drivs med 2st 9V batteri.,Not tested,Instrument,B,20190268
+Analog våg,Våg 0-5kg. Analog. Ej kalibrerad,Working,Gerät,C,20190274
+Tektronix 1230,"Tektronix 1230 logikanalysator. Ej testad med prober, men verkar fungera",Other,Instrument,C,20190278
+Oscilloskop DS-6612,2.5 kanal oscilloskop DS-6612 Digital stroage scope. Fungerra men verkar ha egenheter,Working,Instrument,B,20190266
+X-Y recorder,X-Y recorder PM8033,Not tested,Gerät,C,20190270
+Stor brytare,Schneider Electric stor brytare. Ui=800V Icw=19.2 kA/s Ns=800V,Not tested,Gerät,A,20190286
+HP 8553 Spektrumanalysator,HP 8553 Spektrumanalysator RF-sektion,Not tested,Instrument,B,20190276
+Pulsgenerator HP 8003A,Pulsgenerator HP 8003A,Not working,Instrument,C,20190272
+Pulsgenerator HP 8003A,Pulsgenerator HP 8003A. Brusiga rattar,Working,Instrument,C,20190280
+Nokia display,Alfaskop Display Monitor Unit 3712,Not tested,Computer,C,20190271
+Variabelteffektmotstånd,Variabelt effektmotstånd 310 ohm 1 A,Working,Component,B,20190275
+Kungliga svenska arméns hörlur,Kungliga svenska arméns hörlur. TC 64364,Not tested,Audio,C,20190259
+Funktionsgenerator,EXACT model 119B,Working,Instrument,C,20190279
+DC Transfer standard,HP 735A DC transfer standard,Not tested,Instrument,C,20190284
+Funktionsgenerator,Topward 8110,Working,Instrument,B,20190289
+Programerbar counter/timer,Programerbar counter/timer PM6650. Lyser men räknar ej,Not working,Instrument,C,20190283
+Brusmätare,TRIO VT-126 Noise meter. Säkring hel men lyser ej,Not working,Instrument,C,20190288
+Oltronix B28-5R,Oltronix B28-5R nätaggregat 0-28V 5A Udda AC kontakt,Not tested,Power supply,B,20190287
+Oscilloskop ,Hung Chang OS-615S,Not working,Instrument,C,20190291
+FM/AM signalgenerator,National VP-81788 FM/AM signalgenerator,Working,Radio,A,20190228
+Behringer Cybermix CM8000,Behringer Cybermix CM8000 32 channel fader/mute system,Not tested,Audio,B,20190252
+Megafon,Megafon,Not tested,Audio,C,20190229
+HP 8554B Spektrumanalysator,HP 8554B Spektrumanalysator RF-sektion. Display ofokuserad. Oklart om den fungerar.,other,Instrument,A,20190244
+Low frequency three phase oscillator,General Radio Company Low frequency three phase oscillator modell 1305-A med four phase output adaptor,Not tested,Radio,B,20190241
+Radio mottagare,US Army Singal Corps. Radio mottagare. BC-312-NX SN: 689. Matas med 127V 50Hz,Not tested,Radio,B,20190245
+Packard Bel Easynote TJ65,Packard Bel Easynote TJ65. 4Gb ram. Dual-Core Intel Pentium T4300. Utan hårddisk,Working,Computer,B,20190230
+Tektronix 190B Signalgenerator,Tektronix 190B Constant amplitude signal generator,Working,Instrument,B,20190234
+HP Pavilion dv6,HP Pavilion dv6. Intel core i5. Utan laddare,Not tested,Computer,B,20190242
+Logikanalysator HP 1615A,Logikanalysator HP 1615A. Verkar fungera. Ej testad med probar.,Working,Instrument,C,20190246
+Tektronix TM504 med moduler,"Tektronix TM504 med TG501, PG 506, FG 502 och SG 503",Working,Instrument,C,20190233
+Skrivare EPSON,EPSON PX700W. Skrivare med scanner. Skrivhuvudet måste göras ren,Other,Computer,C,20190231
+Våg,Våg Mettler P10 0-10kg upplösning 1g,Working,Gerät,B,20190247
+Klocka,Klocka “Time machine” Motor för ombyggnad till 50Hz ingår. Ny I kartong,Other,Miscellaneous,C,20190251
+Våg med nixierör,Mettler PT1200 Våg med nixierör! 0.01g upplösning,Working,Instrument,B,20190235
+Kamera Mirai,Kmera Mirai,Not tested,Nostalgia,C,20190216
+TV-kort,TV-kort WinTV-HVR 1700 Ny I kartong,Other,Computer,C,20190243
+Digtal wattmätare,EASYWATT digital wattmeter 30 Hz – 100 kHz,Lights up,Instrument,B,20190236
+4 port RS232 PCI kort,4 port RS232 PCI kort. Ny I kartong,Other,Computer,B,20190255
+Oscilloskop 20MHz,Hung Chang 3502 2 kanaler 20 MHz,Working,Instrument,B,20190237
+Amplitud regulerande psu med 2 oscillatorer,Amplitud regulerande psu med 2 oscillatorer. Rörbyggd.,Not tested,Radio,C,20190253
+12VDC – 220 VAC omformare,AUKIT Omformare 12V – 220VAC 220 VA “50Hz högtalare”,Working,Power supply,B,20190221
+PLC till PLC konverterare,PLC till PLC konverterare 24V,Not tested,Gerät,C,20190218
+Engångsgrill,Engångsgrill. Otestad och ingen magisk rök har försvunnit. ,Not tested,Gerät,C,20190238
+Telefonsvarare,Pioneer AF-2752,Working,Nostalgia,C,20190222
+Gerät,Okänt gerät. Lapp säger T800-standard,Not tested,Gerät,C,20190225
+Transistor testset,D909 Beulah Electronics,Not tested,Miscellaneous,C,20190224
+Nätverkskabel,Långa CAT6 kablar,Working,Computer,B,20190239
+Mätförstärkare,Mätförstärkare HBM KM3071,Not tested,Component,C,20190226
+Cisco switch,Catalyst 4506-E 96st 10/100/1000Mbit/s PoE,Not tested,Computer,A,20190227
+HP 6890GC gascromatograf,"Reagerar på ström, saknar gaser och infrastruktur för vidare test.",Lights up,Instrument,B,20190219
+Varian 34500 Gascromatograf,"Saknar infrastruktur för test, Error: warm start",Lights up,Instrument,B,20190223
+Cisco 2900 Series,Cisco 2900 Series,Lights up,Computer,A,20190328
+Skruvdragare,Cotech skruvdragare,Working,Miscellaneous,C,20190324
+Breakout box RS-232,Beakout box RS-232 EASY BOB,Working,Computer,C,20190340
+Bandolier räknare,Bandolier räknare,Working,Miscellaneous,C,20190344
+LP-Spelare,Sony PS-LX250H Snurrar ej,Not working,Audio,C,20190320
+Robotbyggsats,Basic stamp robotbyggsatts oöppnad förpackning. Perfekt julklapp,Working,Component,C,20190356
+Torsionbalance,Torsionbalance verenigde draadfabriken niumegen,Not tested,Nostalgia,C,20190348
+Bilföstärkare,2x75W SA150P SKE,Not tested,Audio,B,20190325
+Laser gerät,Laser klass 1 IBEDO Lasertechnik made in german,Not tested,Gerät,C,20190321
+Radio,Radio flyg fm pr radiomottagare,Working,Radio,C,20190341
+HP 3734A electronic counter,Konstig kontakt bak,Not tested,Instrument,C,20190329
+IBEO Lasertechnik Ladar,"Ladar 2D ows 6, västtysk",Not tested,Miscellaneous,B,20190345
+Laser kit,Laser med tillbehör,Not tested,Component,C,20190352
+Digital densitets mätare,I fin låda,Not tested,Instrument,C,20190332
+Aktivitetsmätate,Aktivitetsmätare från Skogshögskolan,Not tested,Gerät,C,20190357
+Tomtrack monterad server,PSU inkluderad,Not tested,Computer,C,20190353
+Fukt och tempraturmätare,"Vaisala, med två prober",Lights up,Instrument,C,20190361
+Halogenbelysning,150W,Working,Gerät,C,20190322
+PC104,CPU-kort med expantionskort,Not tested,Computer,C,20190326
+Surface tension balance,Roller smith,Not tested,Nostalgia,C,20190330
+HP 1610A Logik analysator,"Prober, Kommer I fin väska med instruktioner",Not tested,Instrument,C,20190349
+Sanwa termometer,Analog display,Not working,Instrument,C,20190333
+Bilstereo,"Ford 6000 CD RDS, EON, manual, inkopplingsanvisning och kod medföljer",Working,Audio,C,20190342
+Trådlös strömbrytare,Ny I LÅDA,Working,Miscellaneous,B,20190323
+Halogen leak detector,Qiton Keiki modell HID-38A-EX,Lights up,Instrument,B,20190346
+Geiger-Müller rör,Cintel Geiger-Müller tubes type G7725C med orginalförpackning,Not tested,Component,A,20190335
+Maxtor NAS,Saknar nätaggregat (12V 3A),Not tested,Computer,B,20190355
+Nätverkskabel,Blandat nätverkskabel CAT-6 långa och CAT-5E kortare,Working,Component,B,20190359
+Etiketskrivare,Intermec 3240,Lights up,Gerät,C,20190347
+Accesspunkt,Meru Network Dual Radio Access Point AP332i,Not tested,Computer,C,20190351
+Mainframe,"HP 66000A MPS mainframe, tomt",Not tested,Instrument,B,20190363
+Mjukstartare,"Alistart 22, ATS22D17Q",Not tested,Power supply,B,20190372
+Nätverksanalysator 45Mhz-20GHz,Nätverksanalysator komplett rack. 45MHz-20GHz. Obs trasig multiplier. HP 8510C + HP 8514B + HP 83621B (trasig),Not working,Instrument,A,20190376
+Mynträknare,Scan Coin SC 202,Working,Miscellaneous,A,20190384
+Spänngsloggare,ASTRO-Med Dash-10,Lights up,Miscellaneous,C,20190388
+Strömprob,Amprobe strömprob,Not tested,Instrument,C,20190392
+Tracking generator HP 8444A,Tracking generator HP 8444A 0.5 – 1300 MHz,Lights up,Instrument,A,20190396
+Sharp ZW-160CU,Sharp ZW-160CU,Not tested,Gerät,C,20190380
+Brusrör,Kit med många brusrör. Olika modeller,Not tested,Component,A,20190408
+Dator,HP Core 2 duo Windows 7 160Gb HDD 2Gb ram,Working,Computer,C,20190404
+Apple Power Machintosh 6100/66,Saknar RAM och hårddisk,Not tested,Computer,B,20190412
+HP 8510C Nätverksanalysator,Lyser och fläktar låter bra. I övrigt otestad,Other,Instrument,A,20190416
+Fluke termometer + printer,Fluke 2180A termomoter + 2020A printer. Lyser och printar,Other,Instrument,C,20190400
+SunFire X4500,Server inklusive 48st 500 Gb HHD. 16 Gb ram,Working,Computer,A,20190420
